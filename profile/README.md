@@ -1,12 +1,9 @@
 # About Splyce
 
-Splyce Finance goal is to track,  trade  &  grow  with  Solana’s  leading  assets.
-Splyce DTFs (DeFi Traded Funds) give users one-click access to hot investment themes.
-Splyce DTF tokens can be traded on centralized and decentralized exchanges (CEXs and DEXs) and can immediately integrate with DeFi tools, providing utility to tokenized assets in a groundbreaking way.
+Splyce simplifies on-chain investing with decentralized Exchange Traded Funds (dETFs), revolutionizing access to diversified, user-friendly strategies. As the first permissionless investment protocol to pioneer Top 10 index funds, Splyce empowers users to invest securely, transparently, and efficiently, leveraging Solana’s speed and low costs.
 
-Splyce works on bringing tokenized assets, such as ETFs, into the decentralized finance (DeFi) space. It enables these assets to move and interact like cryptocurrencies by offering permissionless and regulated access for both retail and institutional users.
-This makes Splyce a pioneer in enabling borderless access to RWAs within DeFi ecosystems.
+Backed by a team of TradFi and DeFi experts and seasoned blockchain engineers, Splyce is redefining investing by doing to ETFs what ETFs did to mutual funds, making 24/7 global market access simple and accessible.
 
 - [Website](https://splyce.finance)
-- [Dapp](https://app.splyce.finance/)
-- [Twitter](https://twitter.com/SplyceFi)
+- [Dapp](https://solana.splyce.finance/)
+- [X.com](https://x.com/SplyceFi)
