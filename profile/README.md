@@ -6,5 +6,3 @@ Backed by a team of TradFi and DeFi experts and seasoned blockchain engineers, S
 
 - [Website](https://splyce.finance)
 - [X.com](https://x.com/SplyceFi)
-- [Discord](https://discord.gg/HYYk86bbMw)
-- [Telegram](https://t.me/+cT-X9yUSEVE4MGUy)
